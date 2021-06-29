@@ -5,5 +5,6 @@ public class Student {
     private int age;
     private String address;
 	private String sex;
+	private int uid;
 
 }
