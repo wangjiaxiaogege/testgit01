@@ -4,5 +4,6 @@ public class Student {
     private String username;
     private int age;
 	private String sex;
+	private int id;
 
 }
